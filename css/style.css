@@ -13,3 +13,11 @@ main {
     aspect-ratio: 1 / 1;
     object-fit: cover;
 }
+
+.vidCategoria {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: 20% 32%;
+    height: 250px;
+}
