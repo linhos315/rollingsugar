@@ -30,9 +30,18 @@ main {
     font-family: "Playwrite DK Loopet", cursive;
 }
 
+.texto404 {
+    font-size: 120px;
+   
+}
+
 @media (width >= 992px) {
     .vidCategoria {
         height: 450px;
+    }
+
+    .img404 {
+        height: 400px;
     }
 
 }
